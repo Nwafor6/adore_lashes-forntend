@@ -1151,4 +1151,20 @@ div.cart-collaterals ul.products li.product:hover .add_to_cart_button{background
 .product-description >.body{
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     padding:15px;
+    font:bold;
+    color: white;
+}
+.call_to_action{
+    background-color: #e5e5e5;
+    padding: 10px;
+}
+.socical_media{
+    z-index: 1;
+}
+.socical_media .icons{
+    padding: 10px;
+    font-size: 25px;
+}
+.socical_media fa{
+    z-index: 1;
 }
